@@ -17,14 +17,14 @@ Computer Science student focused on cybersecurity with hands-on experience deplo
 
 ## Selected Projects
 
-### [OpenStack Private Cloud Security Lab](./openstack-security-lab)
+### [OpenStack Private Cloud Security Lab](https://github.com/BDaniel1/openstack-security-lab)
 - Deployed and secured a multi-tenant OpenStack environment using DevStack
 - Designed Keystone RBAC roles and group-based access controls
 - Hardened Nova/Glance/Cinder policies using policy.yaml
 - Implemented tenant network segmentation and security groups
 - Validated authorization boundaries through CLI and Horizon testing
 
-### [Personal Budget Desktop Application](./budget-project)
+### [Personal Budget Desktop Application](https://github.com/BDaniel1/budget-project)
 - Designed and implemented a Java desktop application for tracking income and expenses
 - Followed structured SDLC (requirements → design → implementation → testing)
 - Implemented persistent storage, validation, and reporting
